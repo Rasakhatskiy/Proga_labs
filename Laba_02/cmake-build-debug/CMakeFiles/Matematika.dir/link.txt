@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\Matematika.dir/objects.a
+C:\mingw32\bin\ar.exe cr CMakeFiles\Matematika.dir/objects.a @CMakeFiles\Matematika.dir\objects1.rsp
+C:\mingw32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Matematika.dir/objects.a -Wl,--no-whole-archive  -o Matematika.exe -Wl,--out-implib,libMatematika.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Matematika.dir\linklibs.rsp

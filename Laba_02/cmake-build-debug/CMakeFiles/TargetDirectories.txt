@@ -1,0 +1,3 @@
+D:/Documents/Sharaga v.2/1 sem/Matematika/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Documents/Sharaga v.2/1 sem/Matematika/cmake-build-debug/CMakeFiles/Matematika.dir
+D:/Documents/Sharaga v.2/1 sem/Matematika/cmake-build-debug/CMakeFiles/edit_cache.dir

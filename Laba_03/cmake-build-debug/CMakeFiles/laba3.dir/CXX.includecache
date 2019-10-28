@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Documents/Sharaga v.2/1 sem/laba3/Point.cpp
+cmath
+-
+iostream
+-
+Point.h
+D:/Documents/Sharaga v.2/1 sem/laba3/Point.h
+
+D:/Documents/Sharaga v.2/1 sem/laba3/Point.h
+
+D:/Documents/Sharaga v.2/1 sem/laba3/main.cpp
+iostream
+-
+vector
+-
+Point.h
+D:/Documents/Sharaga v.2/1 sem/laba3/Point.h
+
