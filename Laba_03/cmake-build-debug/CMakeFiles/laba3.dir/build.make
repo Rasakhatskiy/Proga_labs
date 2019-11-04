@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2017.2.3\bin\cmake\bin\cmake.exe" -E remo
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\Documents\Sharaga v.2\1 sem\laba3"
+CMAKE_SOURCE_DIR = "D:\Documents\Sharaga v.2\1 sem\Proga_laby\Laba_03"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\Documents\Sharaga v.2\1 sem\laba3\cmake-build-debug"
+CMAKE_BINARY_DIR = "D:\Documents\Sharaga v.2\1 sem\Proga_laby\Laba_03\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/laba3.dir/depend.make
@@ -58,16 +58,16 @@ include CMakeFiles/laba3.dir/flags.make
 
 CMakeFiles/laba3.dir/main.cpp.obj: CMakeFiles/laba3.dir/flags.make
 CMakeFiles/laba3.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Documents\Sharaga v.2\1 sem\laba3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/laba3.dir/main.cpp.obj"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\laba3.dir\main.cpp.obj -c "D:\Documents\Sharaga v.2\1 sem\laba3\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Documents\Sharaga v.2\1 sem\Proga_laby\Laba_03\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/laba3.dir/main.cpp.obj"
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\laba3.dir\main.cpp.obj -c "D:\Documents\Sharaga v.2\1 sem\Proga_laby\Laba_03\main.cpp"
 
 CMakeFiles/laba3.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/laba3.dir/main.cpp.i"
-	C:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Documents\Sharaga v.2\1 sem\laba3\main.cpp" > CMakeFiles\laba3.dir\main.cpp.i
+	C:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Documents\Sharaga v.2\1 sem\Proga_laby\Laba_03\main.cpp" > CMakeFiles\laba3.dir\main.cpp.i
 
 CMakeFiles/laba3.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/laba3.dir/main.cpp.s"
-	C:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Documents\Sharaga v.2\1 sem\laba3\main.cpp" -o CMakeFiles\laba3.dir\main.cpp.s
+	C:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Documents\Sharaga v.2\1 sem\Proga_laby\Laba_03\main.cpp" -o CMakeFiles\laba3.dir\main.cpp.s
 
 CMakeFiles/laba3.dir/main.cpp.obj.requires:
 
@@ -82,16 +82,16 @@ CMakeFiles/laba3.dir/main.cpp.obj.provides.build: CMakeFiles/laba3.dir/main.cpp.
 
 CMakeFiles/laba3.dir/Point.cpp.obj: CMakeFiles/laba3.dir/flags.make
 CMakeFiles/laba3.dir/Point.cpp.obj: ../Point.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Documents\Sharaga v.2\1 sem\laba3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/laba3.dir/Point.cpp.obj"
-	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\laba3.dir\Point.cpp.obj -c "D:\Documents\Sharaga v.2\1 sem\laba3\Point.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Documents\Sharaga v.2\1 sem\Proga_laby\Laba_03\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/laba3.dir/Point.cpp.obj"
+	C:\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\laba3.dir\Point.cpp.obj -c "D:\Documents\Sharaga v.2\1 sem\Proga_laby\Laba_03\Point.cpp"
 
 CMakeFiles/laba3.dir/Point.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/laba3.dir/Point.cpp.i"
-	C:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Documents\Sharaga v.2\1 sem\laba3\Point.cpp" > CMakeFiles\laba3.dir\Point.cpp.i
+	C:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Documents\Sharaga v.2\1 sem\Proga_laby\Laba_03\Point.cpp" > CMakeFiles\laba3.dir\Point.cpp.i
 
 CMakeFiles/laba3.dir/Point.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/laba3.dir/Point.cpp.s"
-	C:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Documents\Sharaga v.2\1 sem\laba3\Point.cpp" -o CMakeFiles\laba3.dir\Point.cpp.s
+	C:\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Documents\Sharaga v.2\1 sem\Proga_laby\Laba_03\Point.cpp" -o CMakeFiles\laba3.dir\Point.cpp.s
 
 CMakeFiles/laba3.dir/Point.cpp.obj.requires:
 
@@ -118,7 +118,7 @@ laba3.exe: CMakeFiles/laba3.dir/build.make
 laba3.exe: CMakeFiles/laba3.dir/linklibs.rsp
 laba3.exe: CMakeFiles/laba3.dir/objects1.rsp
 laba3.exe: CMakeFiles/laba3.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Documents\Sharaga v.2\1 sem\laba3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable laba3.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="D:\Documents\Sharaga v.2\1 sem\Proga_laby\Laba_03\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable laba3.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\laba3.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -136,6 +136,6 @@ CMakeFiles/laba3.dir/clean:
 .PHONY : CMakeFiles/laba3.dir/clean
 
 CMakeFiles/laba3.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "D:\Documents\Sharaga v.2\1 sem\laba3" "D:\Documents\Sharaga v.2\1 sem\laba3" "D:\Documents\Sharaga v.2\1 sem\laba3\cmake-build-debug" "D:\Documents\Sharaga v.2\1 sem\laba3\cmake-build-debug" "D:\Documents\Sharaga v.2\1 sem\laba3\cmake-build-debug\CMakeFiles\laba3.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "D:\Documents\Sharaga v.2\1 sem\Proga_laby\Laba_03" "D:\Documents\Sharaga v.2\1 sem\Proga_laby\Laba_03" "D:\Documents\Sharaga v.2\1 sem\Proga_laby\Laba_03\cmake-build-debug" "D:\Documents\Sharaga v.2\1 sem\Proga_laby\Laba_03\cmake-build-debug" "D:\Documents\Sharaga v.2\1 sem\Proga_laby\Laba_03\cmake-build-debug\CMakeFiles\laba3.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/laba3.dir/depend
 

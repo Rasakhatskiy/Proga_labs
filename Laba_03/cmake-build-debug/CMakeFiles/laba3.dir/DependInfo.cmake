@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Documents/Sharaga v.2/1 sem/laba3/Point.cpp" "D:/Documents/Sharaga v.2/1 sem/laba3/cmake-build-debug/CMakeFiles/laba3.dir/Point.cpp.obj"
-  "D:/Documents/Sharaga v.2/1 sem/laba3/main.cpp" "D:/Documents/Sharaga v.2/1 sem/laba3/cmake-build-debug/CMakeFiles/laba3.dir/main.cpp.obj"
+  "D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_03/Point.cpp" "D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_03/cmake-build-debug/CMakeFiles/laba3.dir/Point.cpp.obj"
+  "D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_03/main.cpp" "D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_03/cmake-build-debug/CMakeFiles/laba3.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

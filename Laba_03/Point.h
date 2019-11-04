@@ -11,6 +11,8 @@ class Point
 public:
     double X;
     double Y;
+    int num;
+    static int n;
     bool IsOccupied;
 
     Point();
@@ -18,6 +20,10 @@ public:
     double DistanceTo(Point point);
     void Input();
     void Output();
+    inline bool operator ==(const Point& left) const
+    {
+        return left.X == X && left.Y == Y;
+    }
 };
 
 

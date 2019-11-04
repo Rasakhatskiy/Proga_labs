@@ -6,21 +6,25 @@
 
 #IncludeRegexTransform: 
 
-D:/Documents/Sharaga v.2/1 sem/laba3/Point.cpp
+D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_03/Point.cpp
 cmath
 -
 iostream
 -
 Point.h
-D:/Documents/Sharaga v.2/1 sem/laba3/Point.h
+D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_03/Point.h
 
-D:/Documents/Sharaga v.2/1 sem/laba3/Point.h
+D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_03/Point.h
 
-D:/Documents/Sharaga v.2/1 sem/laba3/main.cpp
+D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_03/main.cpp
 iostream
 -
 vector
 -
+limits
+-
+cmath
+-
 Point.h
-D:/Documents/Sharaga v.2/1 sem/laba3/Point.h
+D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_03/Point.h
 
