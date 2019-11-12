@@ -1,0 +1,5 @@
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\Documents\Sharaga v.2\1 sem\Proga_laby\Laba_05"
+-- Could NOT find ImageMagick (missing: ImageMagick_Magick++_LIBRARY) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_05/cmake-build-debug
