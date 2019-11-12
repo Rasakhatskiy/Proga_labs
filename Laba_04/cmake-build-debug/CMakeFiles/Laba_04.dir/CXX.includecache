@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_04/Formula_07.cpp
+Formula_07.h
+D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_04/Formula_07.h
+cmath
+-
+
+D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_04/Formula_07.h
+
+D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_04/Formula_09.cpp
+cmath
+-
+Formula_09.h
+D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_04/Formula_09.h
+
+D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_04/Formula_09.h
+
+D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_04/main.cpp
+iostream
+-
+Formula_07.h
+D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_04/Formula_07.h
+Formula_09.h
+D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_04/Formula_09.h
+

@@ -1,0 +1,3 @@
+D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_04/cmake-build-debug/CMakeFiles/Laba_04.dir
+D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_04/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documents/Sharaga v.2/1 sem/Proga_laby/Laba_04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
