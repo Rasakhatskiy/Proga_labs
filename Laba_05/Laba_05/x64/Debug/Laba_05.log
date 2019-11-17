@@ -1,0 +1,8 @@
+﻿  Main.cpp
+d:\documents\sharaga v.2\1 sem\proga_laby\laba_05\laba_05\main.cpp(31): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+d:\documents\sharaga v.2\1 sem\proga_laby\laba_05\laba_05\main.cpp(70): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Laba_05.vcxproj -> D:\Documents\Sharaga v.2\1 sem\Proga_laby\Laba_05\x64\Debug\Laba_05.exe
